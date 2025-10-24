@@ -40,3 +40,7 @@
 1. Распакуйте архив по пути:  
    ...\steamapps\common\Everlasting Summer\game
 2. Всё, мод успешно установлен!
+
+**О НАС**
+
+[Новостной ТГК мода](https://t.me/poligonsovenok)
